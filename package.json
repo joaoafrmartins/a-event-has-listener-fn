@@ -1,0 +1,23 @@
+{
+  "name": "a-event-has-listener-fn",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "A Event Has Listener Fn",
+  "keywords": [
+    "a",
+    "event",
+    "has",
+    "listener",
+    "fn"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/joaoafrmartins/a-event-has-listener-fn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-event-has-listener-fn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-event-has-listener-fn/issues"
+  }
+}
